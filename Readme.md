@@ -46,7 +46,7 @@ Ahora adjunto el codigo resulta de los customer de nuestra base de datos
 
 En esta querri tenemos que imprimir las orders de la base da datos y ordenarlos por el customer id y imprimimos el order_date de cada uno de las orders 
 
-![captura imagen 1](imagenes/codigoQuerries2.jpg)
+![captura imagen 1](imagenes/codigoQueries2.jpg)
 
 
 Ahora adjunto el codigo resultante 
@@ -56,7 +56,7 @@ Ahora adjunto el codigo resultante
 
 En esta querri tenemos que imprimir las orders pendientes las cuales se ordenaran de manera descendenete 
 
-![captura imagen 1](imagenes/codigoQuerries3.jpg)
+![captura imagen 1](imagenes/codigoQueries3.jpg)
 
 
 Ahora adjunto el codigo resultante 
@@ -66,7 +66,7 @@ Ahora adjunto el codigo resultante
 
 En esta querri tenemos que imprimir el numero de customer que hay en la tabla, el cual con un count se imprime
 
-![captura imagen 1](imagenes/codigoQuerries4.jpg)
+![captura imagen 1](imagenes/codigoQueries4.jpg)
 
 
 Ahora adjunto el codigo resultante 
@@ -76,7 +76,7 @@ Ahora adjunto el codigo resultante
 
 En esta querri tenemos que imprimir todos los codigos de las orders, pero sin que el codigo 'FREESHIPPING', por lo cual, acemor un filtro para que no haya ninguno vacion y ademas otro para que no sea del que no queremos y entonces los imprimimos
 
-![captura imagen 1](imagenes/codigoQuerries5.jpg)
+![captura imagen 1](imagenes/codigoQueries5.jpg)
 
 
 Ahora adjunto el codigo resultante 
@@ -86,7 +86,7 @@ Ahora adjunto el codigo resultante
 
 En esta querri tenemos que imprimir los dias que faltan para el renove pasados tantos dias, por ello tenemos que sumar todos los dias, ademas de hacer joins para saber que dias tenemos que sunmar y con las tablas lo podemos encontrar
 
-![captura imagen 1](imagenes/codigoQuerries6.jpg)
+![captura imagen 1](imagenes/codigoQueries6.jpg)
 
 
 Ahora adjunto el codigo resultante 
@@ -95,7 +95,7 @@ Ahora adjunto el codigo resultante
 ---
 
 En esta querri tenemos que imprimir la media de todos los ordes.shipped_date 
-![captura imagen 1](imagenes/codigoQuerries7.jpg)
+![captura imagen 1](imagenes/codigoQueries7.jpg)
 
 
 Ahora adjunto el codigo resultante 
