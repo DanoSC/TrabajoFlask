@@ -17,7 +17,7 @@ Ahora para tener en este entorno instalamos con el comando pip el flask y el fla
 
 Ahora en nuesto archivo de python creamos las bases de nuestra base de datos, primero creamos nuestras tablas con sus enlaces. En la siguiente captura se puede ver las 3 tablas creadas, customer order y products  
 
-![captura imagen 3](imagenes/3a.jpg)
+![captura imagen 3](imagenes/3.jpg)
 
 ---
 
